@@ -8,7 +8,9 @@
     "settings": {
       "info": [
         {
-          "changes": {}
+          "changes": {
+            "color": "0, 225, 255"
+          }
         }
       ],
       "example": [
@@ -44,7 +46,7 @@
         {
           "changes": {
             "icon": "lucide-book-open",
-            "color": "68, 207, 110"
+            "color": "0, 255, 42"
           }
         }
       ],
@@ -52,7 +54,7 @@
         {
           "changes": {
             "icon": "lucide-book-open-text",
-            "color": "233, 151, 63"
+            "color": "251, 255, 0"
           }
         }
       ]

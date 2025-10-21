@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "643d5a2614560fed",
+        "id": "e501f37befd1da51",
         "type": "tabs",
         "children": [
           {
-            "id": "6c958d9942df8eca",
+            "id": "8f2b42b6fd4903cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secondo anno/Linguaggi di programmazione/Definizione di un Linguaggio di programmazione.md",
+                "file": "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Gestione della Memoria.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definizione di un Linguaggio di programmazione"
+              "title": "Gestione della Memoria"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "right": {
     "id": "0ee3d13955aacfdf",
@@ -173,10 +174,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c958d9942df8eca",
+  "active": "8f2b42b6fd4903cb",
   "lastOpenFiles": [
-    "Secondo anno/Linguaggi e computabilità/Grammatica.md",
+    "Pasted image 20251021135918.png",
+    "Pasted image 20251021135645.png",
+    "Pasted image 20251021135309.png",
+    "Pasted image 20251021135303.png",
+    "Pasted image 20251021134812.png",
+    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Slide/3- Gestione memoria servizi.pdf",
+    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Gestione della Memoria.md",
+    "Pasted image 20251021112101.png",
+    "Pasted image 20251021104711.png",
+    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/API POSIX.md",
+    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/IPC - Interprocess Communication.md",
+    "Pasted image 20251019151236.png",
     "Secondo anno/Linguaggi di programmazione/Definizione di un Linguaggio di programmazione.md",
+    "Secondo anno/Linguaggi e computabilità/Grammatica.md",
     "Secondo anno/Metodi algebrici per l'informatica/Strutture Algebriche.md",
     "Secondo anno/Metodi algebrici per l'informatica/Polinomi.md",
     "Secondo anno/Linguaggi di programmazione/Libro di linguaggi di programmazione.pdf",
@@ -191,19 +204,12 @@
     "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A08.pdf",
     "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A07.pdf",
     "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A06.pdf",
-    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A02.pdf",
     "Secondo anno/Metodi algebrici per l'informatica/CNF e DNF.md",
     "Secondo anno/Metodi algebrici per l'informatica/Come tradurre la Logica Proposizione in Algebra.md",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Processi e MultiThreading.md",
-    "Pasted image 20251019151236.png",
-    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/IPC - Interprocess Communication.md",
-    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/API POSIX.md",
     "Appunti vari/IMG/Pasted image 20251019131511.png",
     "Appunti vari/IMG/Pasted image 20251019132627.png",
     "Appunti vari/IMG/Pasted image 20251019132529.png",
-    "Appunti vari/IMG/Pasted image 20251019132219.png",
-    "Pasted image 20251019120911.png",
-    "Pasted image 20251017153244.png",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Sistemi Operativi.md",
     "Excalidraw/Drawing 2025-10-17 15.11.11.excalidraw.md",
     "Excalidraw/Drawing 2025-10-17 14.09.40.excalidraw.md",
@@ -214,13 +220,8 @@
     "Excalidraw/Drawing 2025-10-04 15.42.11.excalidraw.md",
     "Secondo anno/Linguaggi e computabilità/Espressioni Regolari.md",
     "Secondo anno/Linguaggi e computabilità/Definizioni.md",
-    "Pasted image 20251004192945.png",
-    "Img/esempio di derivazione Daniele.png",
     "Secondo anno/Linguaggi e computabilità/Ɛ-NFA - Automa a stati finiti non deterministico con le Ɛ mosse.md",
     "Secondo anno/Linguaggi e computabilità/NFA - Automi non deterministici a stati finiti.md",
-    "Excalidraw/Drawing 2025-10-14 13.51.39.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-14 09.30.45.excalidraw.md",
-    "Secondo anno/Reti e sistemi operativi/Reti/img/Pasted image 20251010114914.png",
     "Untitled.canvas"
   ]
 }
