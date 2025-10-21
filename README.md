@@ -1,2 +1,1 @@
-Gli appunti sono tutti scritti in obsidian e hanno anche le IMG di excalidraw ed IMG varie, per piacere,
- se scaricate una cartella / un file scaricate anche gli excalidraw e le immagini ,thx
+Questi sono i miei appunti personali , non sono in PDF immaginateli come la "brutta" ho un altro repository dove manderò tutti i PDF dei vari anni

@@ -16,6 +16,49 @@
 >>Descrive il significato di una frase sintatticamente corretta , ovvero cosa succede durante l'esecuzione.
 
 >[!definizione]+ Caratteristiche - **Criteri di qualità**
+>>[!approfondimento]- Leggibilità
+>>La facilità attraverso cui **riesco a leggere ed interpretare un programma**
+>>
+>>>[!INFO]- Fattori di leggibilità
+>>>>[!sub-appro] Semplicità complessiva
+>>>>Un linguaggio dovrebbe avere un insieme gestibile di caratteristiche e costrutti, riducendo al minimo la molteplicità delle funzionalità e l'overloading degli operatori
+>>>
+>>>>[!sub-appro] Ortogonalità
+>>>>Indica se un piccolo insieme di costrutti primitivi può essere combinato in un numero relativamente limitato di modi per definire istruzioni di controllo e strutture dati.
+>>>>
+>>>>Un linguaggio ortogonale garantisce che ogni combinazione possibile di primitive sia legale, riducendo la necessità di controlli sintattici e la probabilità di eccezioni
+>>>
+>>>>[!sub-appro] Tipi di dati
+>>>
+>>>>[!sub-appro] Considerazioni sintattiche
+>>>>Riguardano la forma degli identificatori, la composizione flessibile, l'uso di parole speciali o metodi per formare istruzioni composte , e l'impiego di costrutti auto-descrittivi o parole chiave significative
+>>
+>
+>>[!approfondimento]- Facilità di sviluppo
+>>La facilità con cui un linguaggio può essere utilizzato per **creare programmi**
+>>>[!INFO]- Fattori di facilità di sviluppo
+>>>>[!sub-appro] Semplicità e ortogonalità
+>>>>Pochi costrutti, un ridotto numero di primitive e un piccolo insieme di regole per combinarle sono fondamentali
+>>>
+>>>>[!sub-appro] Supporto per l'astrazione
+>>>>La capacità di definire e utilizzare strutture complesse o operazioni in modi che permettano di ignorare i dettagli implementativi
+>>>
+>>>>[!sub-appro] Espressività
+>>>>L'uso di operatori potenti per specificare le operazioni in modo compatto e la disponibilità di operatori e funzioni predefinite potenti
+>
+>>[!approfondimento]- Affidabilità
+>>L'affidabilità indica la **conformità alle specifiche del linguaggio**, ovvero la capacità di funzionare secondo quanto specificato
+>>>[!INFO]- Fattori di affidabilità
+>>>>[!sub-appro] Controllo dei tipi
+>>>
+>>>>[!sub-appro] Gestione delle eccezioni
+>>>
+>>>>[!sub-appro] Restrizione dell'Aliasing
+>>>>La presenza di due o più metodi distinti per riferirsi alla stessa posizione di memoria, può ridurre l'affidabilità. Restringere l'aliasing aumenta l'affidabilità
+>>>
+>>>>[!sub-appro] Leggibilità e facilità di sviluppo
+>
+>>[!approfondimento]- Costo
 
 >[!definizione]+ Classificazione e Categorizzazione
 >I linguaggio di programmazione possono essere classificati in base al paradigma supportato o in base alla complessità della [[Grammatica#^gerarchia-chomsky | grammatica che li definisce]]
@@ -76,3 +119,6 @@
 >>
 >
 >>[!approfondimento]+ Classificazione per grammatica
+
+>[!definizione] Metodi di Implementazione
+>
