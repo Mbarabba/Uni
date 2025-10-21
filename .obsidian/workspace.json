@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "18825c0fd0106726",
+    "type": "split",
+    "children": [
+      {
+        "id": "643d5a2614560fed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c958d9942df8eca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secondo anno/Linguaggi di programmazione/Definizione di un Linguaggio di programmazione.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definizione di un Linguaggio di programmazione"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "376d95dc5924e344",
+    "type": "split",
+    "children": [
+      {
+        "id": "66f6dc951ea1114a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a02c0f470c2f07f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a5b1b251831f8706",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0027ed8f6d33350c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367.5
+  },
+  "right": {
+    "id": "0ee3d13955aacfdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "eafe974d6d025a11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2ef682eb98bbfae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linguaggi e computabilità/Linguaggi e Computabilità 1.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Linguaggi e Computabilità 1"
+            }
+          },
+          {
+            "id": "44a20b5e34286bad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Secondo anno/Linguaggi e computabilità/Espressioni Regolari.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Espressioni Regolari"
+            }
+          },
+          {
+            "id": "f635d0442c9131b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d13394f983dc7348",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Secondo anno/Linguaggi e computabilità/Espressioni Regolari.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Espressioni Regolari"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "callout-manager:Insert Callout": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6c958d9942df8eca",
+  "lastOpenFiles": [
+    "Secondo anno/Linguaggi e computabilità/Grammatica.md",
+    "Secondo anno/Linguaggi di programmazione/Definizione di un Linguaggio di programmazione.md",
+    "Secondo anno/Metodi algebrici per l'informatica/Strutture Algebriche.md",
+    "Secondo anno/Metodi algebrici per l'informatica/Polinomi.md",
+    "Secondo anno/Linguaggi di programmazione/Libro di linguaggi di programmazione.pdf",
+    "Secondo anno/Linguaggi di programmazione/Definizioni.md",
+    "Secondo anno/Metodi algebrici per l'informatica/Divisione numeri interi.md",
+    "Secondo anno/Linguaggi di programmazione/Slide/(Slide)Evoluzione linguaggi di programmazione.pdf",
+    "Secondo anno/Linguaggi di programmazione/Lez 2 (Da sistemare/(Da sistemare) Lez 2.md",
+    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A05.pdf",
+    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A04.pdf",
+    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A03.pdf",
+    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A09.pdf",
+    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A08.pdf",
+    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A07.pdf",
+    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A06.pdf",
+    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A02.pdf",
+    "Secondo anno/Metodi algebrici per l'informatica/CNF e DNF.md",
+    "Secondo anno/Metodi algebrici per l'informatica/Come tradurre la Logica Proposizione in Algebra.md",
+    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Processi e MultiThreading.md",
+    "Pasted image 20251019151236.png",
+    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/IPC - Interprocess Communication.md",
+    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/API POSIX.md",
+    "Appunti vari/IMG/Pasted image 20251019131511.png",
+    "Appunti vari/IMG/Pasted image 20251019132627.png",
+    "Appunti vari/IMG/Pasted image 20251019132529.png",
+    "Appunti vari/IMG/Pasted image 20251019132219.png",
+    "Pasted image 20251019120911.png",
+    "Pasted image 20251017153244.png",
+    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Sistemi Operativi.md",
+    "Excalidraw/Drawing 2025-10-17 15.11.11.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-17 14.09.40.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-17 12.48.20.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-17 12.40.52.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-17 09.31.02.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-17 09.35.29.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-04 15.42.11.excalidraw.md",
+    "Secondo anno/Linguaggi e computabilità/Espressioni Regolari.md",
+    "Secondo anno/Linguaggi e computabilità/Definizioni.md",
+    "Pasted image 20251004192945.png",
+    "Img/esempio di derivazione Daniele.png",
+    "Secondo anno/Linguaggi e computabilità/Ɛ-NFA - Automa a stati finiti non deterministico con le Ɛ mosse.md",
+    "Secondo anno/Linguaggi e computabilità/NFA - Automi non deterministici a stati finiti.md",
+    "Excalidraw/Drawing 2025-10-14 13.51.39.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-14 09.30.45.excalidraw.md",
+    "Secondo anno/Reti e sistemi operativi/Reti/img/Pasted image 20251010114914.png",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "callouts": {
+    "custom": [
+      "definizione",
+      "approfondimento",
+      "sub-appro"
+    ],
+    "settings": {
+      "info": [
+        {
+          "changes": {}
+        }
+      ],
+      "example": [
+        {
+          "changes": {
+            "icon": "lucide-badge-plus",
+            "color": "132, 0, 219"
+          }
+        }
+      ],
+      "definizione": [
+        {
+          "changes": {
+            "icon": "lucide-book"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "251, 70, 76"
+          }
+        }
+      ],
+      "approfondimento": [
+        {
+          "changes": {
+            "icon": "lucide-book-open",
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "sub-appro": [
+        {
+          "changes": {
+            "icon": "lucide-book-open-text",
+            "color": "233, 151, 63"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
