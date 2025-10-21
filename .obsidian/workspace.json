@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e501f37befd1da51",
+        "id": "3d716b62e1675d67",
         "type": "tabs",
         "children": [
           {
-            "id": "8f2b42b6fd4903cb",
+            "id": "7a5cad528e8c0eee",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMG/Pasted image 20251021135918.png"
+                "file": "Secondo anno/Linguaggi di programmazione/Definizione di un Linguaggio di programmazione.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251021135918"
+              "icon": "lucide-file",
+              "title": "Definizione di un Linguaggio di programmazione"
             }
           }
         ]
@@ -140,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secondo anno/Linguaggi e computabilità/Espressioni Regolari.md",
+                "file": "Secondo anno/Linguaggi di programmazione/Definizione di un Linguaggio di programmazione.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Espressioni Regolari"
+              "title": "Outline of Definizione di un Linguaggio di programmazione"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,45 +170,47 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "callout-manager:Insert Callout": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a02c0f470c2f07f4",
   "lastOpenFiles": [
-    "IMG/Pasted image 20251019151236.png",
-    "README.md",
-    "IMG",
-    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Gestione della Memoria.md",
-    "IMG/Pasted image 20251021135918.png",
-    "IMG/Pasted image 20251021135645.png",
-    "IMG/Pasted image 20251021135309.png",
-    "IMG/Pasted image 20251021135303.png",
-    "IMG/Pasted image 20251021134812.png",
-    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Slide/3- Gestione memoria servizi.pdf",
-    "IMG/Pasted image 20251021112101.png",
-    "IMG/Pasted image 20251021104711.png",
-    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/API POSIX.md",
+    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione_tipologie_di_linguaggi.pdf",
+    "Secondo anno/Linguaggi di programmazione/Slide/Evoluzione Linguaggi di programmazione.pdf",
+    "Secondo anno/Linguaggi di programmazione/Slide/Definzione di un linguaggio.pdf",
+    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_23.png",
+    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_02.png",
+    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_33.png",
+    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_40.png",
+    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_06.png",
+    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_27.png",
+    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_11.png",
+    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_16.png",
+    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_19.png",
+    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_41.png",
+    "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/1.pdf",
+    "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/6.pdf",
+    "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/4.pdf",
+    "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/11.pdf",
+    "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/3.pdf",
+    "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/15.pdf",
+    "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/16.pdf",
+    "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/2.pdf",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/IPC - Interprocess Communication.md",
+    "README.md",
+    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Gestione della Memoria.md",
+    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/API POSIX.md",
     "Secondo anno/Linguaggi di programmazione/Definizione di un Linguaggio di programmazione.md",
     "Secondo anno/Linguaggi e computabilità/Grammatica.md",
     "Secondo anno/Metodi algebrici per l'informatica/Strutture Algebriche.md",
     "Secondo anno/Metodi algebrici per l'informatica/Polinomi.md",
-    "Secondo anno/Linguaggi di programmazione/Libro di linguaggi di programmazione.pdf",
     "Secondo anno/Linguaggi di programmazione/Definizioni.md",
     "Secondo anno/Metodi algebrici per l'informatica/Divisione numeri interi.md",
-    "Secondo anno/Linguaggi di programmazione/Slide/(Slide)Evoluzione linguaggi di programmazione.pdf",
     "Secondo anno/Linguaggi di programmazione/Lez 2 (Da sistemare/(Da sistemare) Lez 2.md",
-    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A05.pdf",
-    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A04.pdf",
-    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A03.pdf",
-    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A09.pdf",
-    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A08.pdf",
-    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A07.pdf",
     "Secondo anno/Metodi algebrici per l'informatica/CNF e DNF.md",
     "Secondo anno/Metodi algebrici per l'informatica/Come tradurre la Logica Proposizione in Algebra.md",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Processi e MultiThreading.md",
-    "Appunti vari/IMG/Pasted image 20251019131511.png",
-    "Appunti vari/IMG/Pasted image 20251019132627.png",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Sistemi Operativi.md",
     "Excalidraw/Drawing 2025-10-17 15.11.11.excalidraw.md",
     "Excalidraw/Drawing 2025-10-17 14.09.40.excalidraw.md",
