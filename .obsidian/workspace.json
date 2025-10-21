@@ -11,14 +11,12 @@
             "id": "8f2b42b6fd4903cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Gestione della Memoria.md",
-                "mode": "preview",
-                "source": false
+                "file": "IMG/Pasted image 20251021135918.png"
               },
-              "icon": "lucide-file",
-              "title": "Gestione della Memoria"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251021135918"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
-    "collapsed": true
+    "width": 367.5
   },
   "right": {
     "id": "0ee3d13955aacfdf",
@@ -174,20 +171,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f2b42b6fd4903cb",
+  "active": "a02c0f470c2f07f4",
   "lastOpenFiles": [
-    "Pasted image 20251021135918.png",
-    "Pasted image 20251021135645.png",
-    "Pasted image 20251021135309.png",
-    "Pasted image 20251021135303.png",
-    "Pasted image 20251021134812.png",
-    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Slide/3- Gestione memoria servizi.pdf",
+    "IMG/Pasted image 20251019151236.png",
+    "README.md",
+    "IMG",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Gestione della Memoria.md",
-    "Pasted image 20251021112101.png",
-    "Pasted image 20251021104711.png",
+    "IMG/Pasted image 20251021135918.png",
+    "IMG/Pasted image 20251021135645.png",
+    "IMG/Pasted image 20251021135309.png",
+    "IMG/Pasted image 20251021135303.png",
+    "IMG/Pasted image 20251021134812.png",
+    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Slide/3- Gestione memoria servizi.pdf",
+    "IMG/Pasted image 20251021112101.png",
+    "IMG/Pasted image 20251021104711.png",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/API POSIX.md",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/IPC - Interprocess Communication.md",
-    "Pasted image 20251019151236.png",
     "Secondo anno/Linguaggi di programmazione/Definizione di un Linguaggio di programmazione.md",
     "Secondo anno/Linguaggi e computabilità/Grammatica.md",
     "Secondo anno/Metodi algebrici per l'informatica/Strutture Algebriche.md",
@@ -203,13 +202,11 @@
     "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A09.pdf",
     "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A08.pdf",
     "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A07.pdf",
-    "Secondo anno/Metodi algebrici per l'informatica/PDF lezioni prof/A06.pdf",
     "Secondo anno/Metodi algebrici per l'informatica/CNF e DNF.md",
     "Secondo anno/Metodi algebrici per l'informatica/Come tradurre la Logica Proposizione in Algebra.md",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Processi e MultiThreading.md",
     "Appunti vari/IMG/Pasted image 20251019131511.png",
     "Appunti vari/IMG/Pasted image 20251019132627.png",
-    "Appunti vari/IMG/Pasted image 20251019132529.png",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Sistemi Operativi.md",
     "Excalidraw/Drawing 2025-10-17 15.11.11.excalidraw.md",
     "Excalidraw/Drawing 2025-10-17 14.09.40.excalidraw.md",
@@ -221,7 +218,6 @@
     "Secondo anno/Linguaggi e computabilità/Espressioni Regolari.md",
     "Secondo anno/Linguaggi e computabilità/Definizioni.md",
     "Secondo anno/Linguaggi e computabilità/Ɛ-NFA - Automa a stati finiti non deterministico con le Ɛ mosse.md",
-    "Secondo anno/Linguaggi e computabilità/NFA - Automi non deterministici a stati finiti.md",
     "Untitled.canvas"
   ]
 }
