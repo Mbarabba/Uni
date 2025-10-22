@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secondo anno/Metodi algebrici per l'informatica/Strutture Algebriche.md",
-                "mode": "preview",
+                "file": "Secondo anno/Metodi algebrici per l'informatica/Come risolvere i Wims/Ciao.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strutture Algebriche"
+              "title": "Ciao"
             }
           }
         ]
@@ -173,8 +173,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "a02c0f470c2f07f4",
+  "active": "1de6f7ea4e7a8534",
   "lastOpenFiles": [
+    "Secondo anno/Metodi algebrici per l'informatica/Strutture Algebriche.md",
+    "Secondo anno/Metodi algebrici per l'informatica/Come risolvere i Wims/Ciao.md",
     "Secondo anno/Metodi algebrici per l'informatica/Come risolvere i Wims/Wims 2",
     "Secondo anno/Metodi algebrici per l'informatica/Come risolvere i Wims/Wims 1",
     "Secondo anno/Metodi algebrici per l'informatica/Come risolvere i Wims",
@@ -207,13 +209,11 @@
     "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_40.png",
     "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_06.png",
     "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_27.png",
-    "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/1.pdf",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/IPC - Interprocess Communication.md",
     "README.md",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Gestione della Memoria.md",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/API POSIX.md",
     "Secondo anno/Linguaggi e computabilità/Grammatica.md",
-    "Secondo anno/Metodi algebrici per l'informatica/Strutture Algebriche.md",
     "Secondo anno/Linguaggi di programmazione/Definizioni.md",
     "Secondo anno/Linguaggi di programmazione/Lez 2 (Da sistemare/(Da sistemare) Lez 2.md",
     "Secondo anno/Metodi algebrici per l'informatica/CNF e DNF.md",
