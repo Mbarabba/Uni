@@ -10,5 +10,5 @@
 >- Date $E_{1},E_{2}$ , $E_{1}E_{2} \implies L(E_{1}E_{2} ) = \{w_{1}w_{2}:w_{1}\in L(E_{1}) \quad w_{2}\in L(E_{2})\}$ 
 >- Data $E^*$ ($^* = \text{Chiusura di Kleene}$) , ripeto 0 o più volte l'espressione marcata 
 >  
->>> [!definizione]
-> Contents
+>>>[!definizione]
+> 

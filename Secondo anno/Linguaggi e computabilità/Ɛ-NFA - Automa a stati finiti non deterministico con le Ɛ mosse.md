@@ -1,4 +1,4 @@
->[!INFO]+ Definizione formale di un #Ɛ-NFA
+>[!definzione]+ Definizione formale di un #Ɛ-NFA
 >$$\begin{cases} \Sigma = \text{ Alfabeto di input} \qquad \varepsilon \not\in\Sigma\\ 
 Q = \text{ Insieme degli stati} \\
 q_{0} \in Q = \text{ Stato iniziale} \\
@@ -12,14 +12,14 @@ F \subseteq Q = \text{ Stati accettanti} \\
 >>![[Drawing 2025-10-14 09.30.45.excalidraw]]
 >>Questa cosa è ora possibile
 
->[!INFO] $\varepsilon \text{-close}$
+>[!definizione] $\varepsilon \text{-close}$
 >
 >La $\varepsilon-close / \varepsilon \text{.chiusura}$ di uno stato q   $\varepsilon-close(q)$ è il più piccolo insieme $C \subseteq Q \text{ tale che } q \in C \text{ e } q_{1} \in C \implies \delta(q_{1},\varepsilon) \subseteq C$
 >
 >>[!INFO]+ Spiegazione **informale** 
 >>La $\varepsilon-close(q)$ sarebbe "la catena" dei possibili stati raggiungibili attraverso la funzione di transizione attraverso partendo dallo stato q
 
->[!INFO] Linguaggi accettati da un #Ɛ-NFA 
+>[!definizione] Linguaggi accettati da un #Ɛ-NFA 
 >Essendo che un $\varepsilon$-NFA ed un #NFA utilizzano la stessa funzione di transizione estesa, con la sola differnza che un $\varepsilon$-NFA accetta la stringa vuota, le condizioni per accettare un linguaggio sono le stesse
 >
 >[[NFA - Automi non deterministici a stati finiti#^def-LinguaggioAccettatoNFA | Linguaggio accettato da un NFA]]

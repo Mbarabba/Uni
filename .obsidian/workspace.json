@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3d716b62e1675d67",
+        "id": "603ae00a02b09c19",
         "type": "tabs",
         "children": [
           {
-            "id": "7a5cad528e8c0eee",
+            "id": "1de6f7ea4e7a8534",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Processi e MultiThreading.md",
-                "mode": "source",
+                "file": "Secondo anno/Metodi algebrici per l'informatica/Strutture Algebriche.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Processi e MultiThreading"
+              "title": "Strutture Algebriche"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Processi e MultiThreading.md",
+                "file": "Appunti vari/Espressioni Regolari Daniele.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Processi e MultiThreading"
+              "title": "Outline of Espressioni Regolari Daniele"
             }
           }
         ],
@@ -161,24 +161,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "callout-manager:Insert Callout": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "7a5cad528e8c0eee",
+  "active": "a02c0f470c2f07f4",
   "lastOpenFiles": [
+    "Secondo anno/Metodi algebrici per l'informatica/Come risolvere i Wims/Wims 2",
+    "Secondo anno/Metodi algebrici per l'informatica/Come risolvere i Wims/Wims 1",
+    "Secondo anno/Metodi algebrici per l'informatica/Come risolvere i Wims",
+    "Secondo anno/Metodi algebrici per l'informatica/Polinomi.md",
+    "Appunti vari/Espressioni Regolari Daniele.pdf",
+    "Untitled.md",
+    "Appunti vari/IMG/Pasted image 20251019132627.png",
+    "Appunti vari/IMG/Pasted image 20251019132529.png",
+    "Appunti vari/IMG/Pasted image 20251019132219.png",
+    "Appunti vari/IMG/Pasted image 20251019131511.png",
+    "2025-10-21.md",
+    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Processi e MultiThreading.md",
+    "Untitled.canvas",
+    "Secondo anno/Metodi algebrici per l'informatica/Divisione numeri interi.md",
+    "Secondo anno/Metodi algebrici per l'informatica/Tabelle.md",
+    "Secondo anno/Linguaggi e computabilità/Espressioni Regolari.md",
+    "Secondo anno/Linguaggi e computabilità/Definizioni.md",
+    "Secondo anno/Linguaggi e computabilità/DFA - Automi deterministici a stati finiti.md",
+    "Secondo anno/Linguaggi e computabilità/Ɛ-NFA - Automa a stati finiti non deterministico con le Ɛ mosse.md",
     "Secondo anno/Linguaggi di programmazione/Definizione di un Linguaggio di programmazione.md",
-    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione_tipologie_di_linguaggi.pdf",
     "Secondo anno/Linguaggi di programmazione/Slide/Definzione di un linguaggio.pdf",
+    "Appunti in PDF/Primo Anno",
+    "Appunti in PDF/Secondo Anno",
+    "Appunti in PDF",
+    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione_tipologie_di_linguaggi.pdf",
     "Secondo anno/Linguaggi di programmazione/Slide/Evoluzione Linguaggi di programmazione.pdf",
     "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_23.png",
     "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_02.png",
@@ -186,41 +207,20 @@
     "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_40.png",
     "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_06.png",
     "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_27.png",
-    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_11.png",
-    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_16.png",
-    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_19.png",
-    "Secondo anno/Linguaggi di programmazione/Slide/Introduzione tipologie di linguaggi/screenshot_41.png",
     "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/1.pdf",
-    "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/6.pdf",
-    "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/4.pdf",
-    "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/11.pdf",
-    "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/3.pdf",
-    "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/15.pdf",
-    "Secondo anno/Linguaggi di programmazione/Slide/Definzione linguaggiodi programmazione/Slide singole/16.pdf",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/IPC - Interprocess Communication.md",
     "README.md",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Gestione della Memoria.md",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/API POSIX.md",
     "Secondo anno/Linguaggi e computabilità/Grammatica.md",
     "Secondo anno/Metodi algebrici per l'informatica/Strutture Algebriche.md",
-    "Secondo anno/Metodi algebrici per l'informatica/Polinomi.md",
     "Secondo anno/Linguaggi di programmazione/Definizioni.md",
-    "Secondo anno/Metodi algebrici per l'informatica/Divisione numeri interi.md",
     "Secondo anno/Linguaggi di programmazione/Lez 2 (Da sistemare/(Da sistemare) Lez 2.md",
     "Secondo anno/Metodi algebrici per l'informatica/CNF e DNF.md",
     "Secondo anno/Metodi algebrici per l'informatica/Come tradurre la Logica Proposizione in Algebra.md",
-    "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Processi e MultiThreading.md",
     "Secondo anno/Reti e sistemi operativi/Sistemi Operativi/Sistemi Operativi.md",
     "Excalidraw/Drawing 2025-10-17 15.11.11.excalidraw.md",
     "Excalidraw/Drawing 2025-10-17 14.09.40.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-17 12.48.20.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-17 12.40.52.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-17 09.31.02.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-17 09.35.29.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-04 15.42.11.excalidraw.md",
-    "Secondo anno/Linguaggi e computabilità/Espressioni Regolari.md",
-    "Secondo anno/Linguaggi e computabilità/Definizioni.md",
-    "Secondo anno/Linguaggi e computabilità/Ɛ-NFA - Automa a stati finiti non deterministico con le Ɛ mosse.md",
-    "Untitled.canvas"
+    "Excalidraw/Drawing 2025-10-17 12.48.20.excalidraw.md"
   ]
 }
